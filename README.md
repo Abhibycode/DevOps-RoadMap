@@ -7,8 +7,11 @@ Linux Fundamentals:
 What to Learn: Basic commands (navigation, file manipulation, permissions), shell scripting (Bash basics), system administration (users, processes, services).
 Extent: Be comfortable navigating the command line, writing simple scripts, and understanding basic system operations.
 Resources:
+
 Linux Command Line Basics: https://ryanstutorials.net/linuxtutorial/
+
 The Linux Command Line (Book): http://linuxcommand.org/tlcl.php
+
 Linux Mastery: https://www.udemy.com/course/linux-mastery/ (Paid but often on sale)
 Networking Basics:
 
